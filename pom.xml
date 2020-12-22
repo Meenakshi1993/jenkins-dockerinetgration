@@ -11,7 +11,7 @@
   <finalName>
   docker-jenkins-integration-sample
   </finalName></build>
-//comment section
+
   <name>docker-jenkins-integration</name>
   <url>http://maven.apache.org</url>
 
